@@ -1,0 +1,4 @@
+flask
+pypdf
+sentence-transformers
+ollama
