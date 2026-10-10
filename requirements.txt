@@ -1,5 +1,4 @@
 flask
 pypdf
-sentence-transformers
-ollama
+requests
 gunicorn
