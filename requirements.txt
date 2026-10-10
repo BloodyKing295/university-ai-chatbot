@@ -2,3 +2,4 @@ flask
 pypdf
 sentence-transformers
 ollama
+gunicorn
